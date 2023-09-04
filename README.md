@@ -19,3 +19,11 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=erictong990602.erictong990602)
+
+[![Github](https://img.shields.io/github/followers/erictong990602?label=Follow&style=social)](https://github.com/erictong990602)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erictong990602&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictong990602&theme=tokyonight)
+
+
