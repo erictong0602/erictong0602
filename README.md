@@ -5,7 +5,11 @@ A detail-oriented Software Engineer with 4 years of professional experience. Pos
 
 ## ✉️ Find me on:
 <p style="text-align: center;">
-  <a href="https://sg.linkedin.com/in/pang-zhen-tong-8437b8207" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+    <a href="https://sg.linkedin.com/in/pang-zhen-tong-8437b8207">
+     <img src="https://skillicons.dev/icons?i=linkedin&perline=5" />
+  </a>
+  
+  <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:erictong1@protonmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
