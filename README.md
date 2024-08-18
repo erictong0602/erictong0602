@@ -9,7 +9,7 @@ A detail-oriented Software Engineer with 4 years of professional experience. Pos
         <img src="https://skillicons.dev/icons?i=linkedin&perline=5" />
     </a>
     <a href="mailto:erictong1@protonmail.com.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=proton	" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=proton" />
   </a>
 </p>
 
