@@ -45,9 +45,10 @@ A detail-oriented Software Engineer with 4 years of professional experience. Pos
 ### Database
 <p style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"  alt="oracle" width="50"/>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&perline=5" />
-    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"  alt="mssql" width="50"/>
+    <br>
+        <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"  alt="oracle" width="50"/>
+        <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"  alt="mssql" width="50"/>
   </a>
 </p>
 
