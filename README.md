@@ -1,7 +1,7 @@
 
-### Hi , I'm Eric 👋
+### Yo , Eric is here! 👋
 
-A fullstack developer from Malaysia
+A detail-oriented Software Engineer with 4 years of professional experience. Possesses a solid foundation in coding and system design, with expertise spanning Government, E-Commerce, and Supply Chain Management domains. Eager to develop innovative software solutions that drive efficiency and growth.
 
 ## ✉️ Find me on:
 <p style="text-align: center;">
